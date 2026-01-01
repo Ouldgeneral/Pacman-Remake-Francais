@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shifttech\\Desktop\\ProjetClasse\\ProjetClasse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFCF38B-0957-47A9-862D-6A913F5E1319}|ProjetClasse\\ProjetClasse.csproj|c:\\users\\shifttech\\desktop\\projetclasse\\projetclasse\\projetclasse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFCF38B-0957-47A9-862D-6A913F5E1319}|ProjetClasse\\ProjetClasse.csproj|solutionrelative:projetclasse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFCF38B-0957-47A9-862D-6A913F5E1319}|ProjetClasse\\ProjetClasse.csproj|c:\\users\\shifttech\\desktop\\projetclasse\\projetclasse\\projetclasse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAFCF38B-0957-47A9-862D-6A913F5E1319}|ProjetClasse\\ProjetClasse.csproj|solutionrelative:projetclasse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFCF38B-0957-47A9-862D-6A913F5E1319}|ProjetClasse\\ProjetClasse.csproj|c:\\users\\shifttech\\desktop\\projetclasse\\projetclasse\\projetclasse\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFCF38B-0957-47A9-862D-6A913F5E1319}|ProjetClasse\\ProjetClasse.csproj|solutionrelative:projetclasse\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFCF38B-0957-47A9-862D-6A913F5E1319}|ProjetClasse\\ProjetClasse.csproj|c:\\users\\shifttech\\desktop\\projetclasse\\projetclasse\\projetclasse\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFCF38B-0957-47A9-862D-6A913F5E1319}|ProjetClasse\\ProjetClasse.csproj|solutionrelative:projetclasse\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFCF38B-0957-47A9-862D-6A913F5E1319}|ProjetClasse\\ProjetClasse.csproj|c:\\users\\shifttech\\desktop\\projetclasse\\projetclasse\\projetclasse\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFCF38B-0957-47A9-862D-6A913F5E1319}|ProjetClasse\\ProjetClasse.csproj|solutionrelative:projetclasse\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFCF38B-0957-47A9-862D-6A913F5E1319}|ProjetClasse\\ProjetClasse.csproj|c:\\users\\shifttech\\desktop\\projetclasse\\projetclasse\\projetclasse\\pacman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFCF38B-0957-47A9-862D-6A913F5E1319}|ProjetClasse\\ProjetClasse.csproj|solutionrelative:projetclasse\\pacman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFCF38B-0957-47A9-862D-6A913F5E1319}|ProjetClasse\\ProjetClasse.csproj|c:\\users\\shifttech\\desktop\\projetclasse\\projetclasse\\projetclasse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFCF38B-0957-47A9-862D-6A913F5E1319}|ProjetClasse\\ProjetClasse.csproj|solutionrelative:projetclasse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFCF38B-0957-47A9-862D-6A913F5E1319}|ProjetClasse\\ProjetClasse.csproj|c:\\users\\shifttech\\desktop\\projetclasse\\projetclasse\\projetclasse\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFCF38B-0957-47A9-862D-6A913F5E1319}|ProjetClasse\\ProjetClasse.csproj|solutionrelative:projetclasse\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shifttech\\Desktop\\ProjetClasse\\ProjetClasse\\ProjetClasse\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetClasse\\Form1.cs",
+              "ToolTip": "C:\\Users\\shifttech\\Desktop\\ProjetClasse\\ProjetClasse\\ProjetClasse\\Form1.cs",
+              "RelativeToolTip": "ProjetClasse\\Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:34:23.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shifttech\\Desktop\\ProjetClasse\\ProjetClasse\\ProjetClasse\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetClasse\\Program.cs",
+              "ToolTip": "C:\\Users\\shifttech\\Desktop\\ProjetClasse\\ProjetClasse\\ProjetClasse\\Program.cs",
+              "RelativeToolTip": "ProjetClasse\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:33:04.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pacman.cs",
+              "DocumentMoniker": "C:\\Users\\shifttech\\Desktop\\ProjetClasse\\ProjetClasse\\ProjetClasse\\Pacman.cs",
+              "RelativeDocumentMoniker": "ProjetClasse\\Pacman.cs",
+              "ToolTip": "C:\\Users\\shifttech\\Desktop\\ProjetClasse\\ProjetClasse\\ProjetClasse\\Pacman.cs",
+              "RelativeToolTip": "ProjetClasse\\Pacman.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:32:56.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\shifttech\\Desktop\\ProjetClasse\\ProjetClasse\\ProjetClasse\\Food.cs",
+              "RelativeDocumentMoniker": "ProjetClasse\\Food.cs",
+              "ToolTip": "C:\\Users\\shifttech\\Desktop\\ProjetClasse\\ProjetClasse\\ProjetClasse\\Food.cs",
+              "RelativeToolTip": "ProjetClasse\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:32:51.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Element.cs",
+              "DocumentMoniker": "C:\\Users\\shifttech\\Desktop\\ProjetClasse\\ProjetClasse\\ProjetClasse\\Element.cs",
+              "RelativeDocumentMoniker": "ProjetClasse\\Element.cs",
+              "ToolTip": "C:\\Users\\shifttech\\Desktop\\ProjetClasse\\ProjetClasse\\ProjetClasse\\Element.cs",
+              "RelativeToolTip": "ProjetClasse\\Element.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:32:44.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "C:\\Users\\shifttech\\Desktop\\ProjetClasse\\ProjetClasse\\ProjetClasse\\Wall.cs",
+              "RelativeDocumentMoniker": "ProjetClasse\\Wall.cs",
+              "ToolTip": "C:\\Users\\shifttech\\Desktop\\ProjetClasse\\ProjetClasse\\ProjetClasse\\Wall.cs",
+              "RelativeToolTip": "ProjetClasse\\Wall.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:32:35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ghost.cs",
+              "DocumentMoniker": "C:\\Users\\shifttech\\Desktop\\ProjetClasse\\ProjetClasse\\ProjetClasse\\Ghost.cs",
+              "RelativeDocumentMoniker": "ProjetClasse\\Ghost.cs",
+              "ToolTip": "C:\\Users\\shifttech\\Desktop\\ProjetClasse\\ProjetClasse\\ProjetClasse\\Ghost.cs",
+              "RelativeToolTip": "ProjetClasse\\Ghost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:31:16.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shifttech\\Desktop\\ProjetClasse\\ProjetClasse\\ProjetClasse\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetClasse\\Form1.cs",
+              "ToolTip": "C:\\Users\\shifttech\\Desktop\\ProjetClasse\\ProjetClasse\\ProjetClasse\\Form1.cs [Design]",
+              "RelativeToolTip": "ProjetClasse\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:30:59.316Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
