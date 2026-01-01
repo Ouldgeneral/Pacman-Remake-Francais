@@ -38,26 +38,26 @@ namespace ProjetClasse
         };
         char[][] niveau2=
          {
-
-            "XXXXXXXXXXXvXXXXXXXXX".ToCharArray(),
-            "XXVvvvvvvvvvvvvvvvvVX".ToCharArray(),
-            "XXvXXXXXvXXvXXXXXvXvX".ToCharArray(),
-            "vvvvvvvvvXXvvvvvXvXvv".ToCharArray(),
-            "XXvXXXXXXXXvXXXvXvXvX".ToCharArray(),
-            "XXvvvvvvvvvvXXXvXvXvX".ToCharArray(),
-            "lXvXXXvXXvXvXXXvXvXVX".ToCharArray(),
-            "lXvvvXvvvrbpovvvXvXXX".ToCharArray(),
-            "lXvXXXvXvvvvvXXvXvXXX".ToCharArray(),
-            "lXvvvvvXXXXXXXXvvvvvX".ToCharArray(),
-            "lXvXXvXXXXXvvvvvXvXvX".ToCharArray(),
-            "lXvXXvvvPvvvXvXvXvXvX".ToCharArray(),
-            "lXvvvvXXvXXXXvXvXvXvX".ToCharArray(),
-            "lXVXXvvvvvvvXvXvXvXvX".ToCharArray(),
-            "XXvXXvXXXXXvXvXvXvXvX".ToCharArray(),
-            "vvvvvvvvvvvvvvvvvvvvv".ToCharArray(),
-            "XXvXXvXXXXXXXvXvXXXXX".ToCharArray(),
-            "XvvvvvvvvvvvvvXvvvvVX".ToCharArray(),
-            "XXXXXXXXXXXVXXXXXXXXX".ToCharArray()
+            "XXXXXXXXXXXXXXXXXXXXXXXXXXXXX".ToCharArray(),
+            "XVvvvvvvvvvvvvvvvvvvvvvvvvvVX".ToCharArray(),
+            "XvXXXXXXvXXXXXXXXXXXvXXXXXXvX".ToCharArray(),
+            "XvvvvvVXvvvvvvvvvvvvvXVvvvvvX".ToCharArray(),
+            "XvXXXXvXvXXXXXvXXXXXvXvXXXXvX".ToCharArray(),
+            "XvvvvXvXvvvvvvvvvvvvvXvXvvvvX".ToCharArray(),
+            "XvXXvXvXvXXXXXvXXXXXvXvXvXXvX".ToCharArray(),
+            "XvvvvXvvvvvvvvvvvvvvvvvXvvvvX".ToCharArray(),
+            "XvXXvXvXvXvXXXvXXXvXvXvXvXXvX".ToCharArray(),
+            "XvvvvvvXvXvXrbpovXvXvXvXvXXvX".ToCharArray(),
+            "XvXXvXvXvvvXXXXXXXvvvXvvvvvvX".ToCharArray(),
+            "XvXXvXvXvXXvvvXvvvXXvXvXvXXvX".ToCharArray(),
+            "XvvvvXvvvvvvXvvvXvvvvvvXvvvvX".ToCharArray(),
+            "XvXXvXvXvXXXXXvXXXXXvXvXvXXvX".ToCharArray(),
+            "XvvvvXvXvvvvvvvvvvvvvXvXvvvvX".ToCharArray(),
+            "XvXXXXvXvXXXXXvXXXXXvXvXXXXvX".ToCharArray(),
+            "XvvvvvVXvvvvvvPvvvvvvXVvvvvvX".ToCharArray(),
+            "XvXXXXXXvXXXXXXXXXXXvXXXXXXvX".ToCharArray(),
+            "XVvvvvvvvvvvvvvvvvvvvvvvvvvVX".ToCharArray(),
+            "XXXXXXXXXXXXXXXXXXXXXXXXXXXXX".ToCharArray(),
         };
         public Niveaux()
         {

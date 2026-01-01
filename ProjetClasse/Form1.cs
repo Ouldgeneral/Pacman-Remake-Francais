@@ -51,13 +51,13 @@ namespace ProjetClasse
             directionsInverse.Add('d', 'g');
             directionsInverse.Add('b', 'h');
             directionsInverse .Add('g', 'd');
-            niveauActuel = 1;
+            niveauActuel = 2;
             texte = new TexteJeu();
             niveaux = new Niveaux();//initialisations des niveaux
             vies = new ViesPacman(10);//nombre de vie du joueur
             score = new Score(0);//score par defaut 0
-            construitCarte();//Construction initial de la carte
             InitializeComponent();
+            construitCarte();//Construction initial de la carte
             this.KeyPreview = true;
             timer = new Timer();
             timer.Interval = 200;
@@ -76,6 +76,8 @@ namespace ProjetClasse
             niveaux.niveau = niveauActuel;
             LARGEUR = carte[0].Length;//recuperation de la largeur de la carte carte
             LONGUEUR = carte.Length;//recuperation de la longueur de la carte carte
+            this.Width = LARGEUR * TAILLE_PIXEL+TAILLE_PIXEL/2;
+            this.Height = LONGUEUR * TAILLE_PIXEL+TAILLE_PIXEL*2;
             nombreNourriture = 0;
             nourritures = new Nourriture[LONGUEUR, LARGEUR];//matrices de la nouriture 
             vies.vies = vies.viesInitial;
